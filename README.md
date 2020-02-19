@@ -7,8 +7,8 @@
 ### Add test-request.http
 ** Hey this is my new repository**
 
-```
-python.py
+```python
+
 def sum(a,b):
   sum=a + b
   return sum
